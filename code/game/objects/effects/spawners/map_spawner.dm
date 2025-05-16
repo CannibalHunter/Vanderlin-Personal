@@ -223,7 +223,8 @@
 	icon_state = "lootcoinabsurd"
 	spawned = list(
 		/obj/item/coin/gold/pile = 50,
-		/obj/item/gem = 50
+		/obj/item/gem = 50,
+		/obj/item/uncut_gem = 25
 		)
 
 /obj/effect/spawner/map_spawner/loot/weapon

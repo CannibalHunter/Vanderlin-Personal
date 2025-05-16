@@ -27,6 +27,7 @@
 		H.mind?.adjust_skillrank(/datum/skill/combat/wrestling, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/combat/unarmed, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/crafting, 2, TRUE)
+		H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/swimming, 1, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/climbing, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/medicine, 1, TRUE)

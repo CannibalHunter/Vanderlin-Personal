@@ -216,14 +216,6 @@
 		//Return false if nothing in range was found
 	return FALSE
 
-/obj/item/gem/amethyst
-	name = "amythortz"
-	icon_state = "amethyst"
-	sellprice = 18
-	arcyne_potency = 25
-	desc = "A deep lavender crystal, it surges with magical energy, yet it's artificial nature means it' worth little."
-	attuned = /datum/attunement/arcyne
-
 /obj/item/mimictrinket
 	name = "mimic trinket"
 	desc = "A small mimic, imbued with the arcane to make it docile. It can transform into most things it touchs. "

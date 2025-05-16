@@ -38,6 +38,7 @@
 		H.mind?.adjust_skillrank(/datum/skill/craft/weaponsmithing, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/smelting, 3, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/engineering, 3, TRUE)
+		H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 3, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/traps, 2, TRUE) // For craftable beartraps
 		H.mind?.adjust_skillrank(/datum/skill/misc/reading, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/labor/mathematics, 2, TRUE)

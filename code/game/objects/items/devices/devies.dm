@@ -1,6 +1,6 @@
 /obj/item/gem_device
-	name = "rontz"
-	icon_state = "ruby_cut"
+	name = "aros"
+	icon_state = "aros"
 	icon = 'icons/roguetown/items/gems.dmi'
 	desc = "Its facets shine so brightly.."
 	lefthand_file = 'icons/mob/inhands/misc/food_lefthand.dmi'
@@ -26,8 +26,8 @@
 	return FALSE
 
 /obj/item/gem_device/goldface
-	name = "gemerald"
-	icon_state = "emerald_cut"
+	name = "aros"
+	icon_state = "cool_aros"
 	desc = "Glints with verdant brilliance."
 	usage_prompt = "Summon GOLDFACE"
 

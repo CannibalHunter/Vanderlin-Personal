@@ -33,6 +33,7 @@
 		H.mind?.adjust_skillrank(/datum/skill/misc/climbing, 1, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/crafting, pick(1,2,2), TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/masonry, pick(1,1,2), TRUE)
+		H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/carpentry, pick(1,1,2), TRUE) // For the bin
 		H.mind?.adjust_skillrank(/datum/skill/craft/engineering, 3, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/craft/traps, 2, TRUE) // For craftable beartraps

@@ -29,6 +29,7 @@
 	H.mind?.adjust_skillrank(/datum/skill/craft/crafting, 3, TRUE)
 	H.mind?.adjust_skillrank(/datum/skill/craft/carpentry, rand(1,2), TRUE)
 	H.mind?.adjust_skillrank(/datum/skill/craft/masonry, 4, TRUE)
+	H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 3, TRUE)
 	H.mind?.adjust_skillrank(/datum/skill/craft/engineering, 1, TRUE)
 	H.mind?.adjust_skillrank(/datum/skill/misc/swimming, 2, TRUE)
 	H.mind?.adjust_skillrank(/datum/skill/misc/climbing, 3, TRUE)

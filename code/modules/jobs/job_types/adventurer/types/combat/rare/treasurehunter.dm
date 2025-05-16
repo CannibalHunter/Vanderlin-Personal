@@ -38,6 +38,7 @@
 		H.mind?.adjust_skillrank(/datum/skill/misc/swimming, 3, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/climbing, 5, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/sewing, 1, TRUE)
+		H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/lockpicking, 2, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/athletics, 4, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/misc/reading, 1, TRUE)

@@ -444,7 +444,7 @@
 /turf/closed/mineral/gemeralds
 	icon = MAP_SWITCH('icons/turf/smooth/walls/mineral.dmi', 'icons/turf/mining.dmi')
 	icon_state = MAP_SWITCH("mineral", "gem")
-	mineralType = /obj/item/gem
+	mineralType = /obj/item/uncut_gem
 	rockType = /obj/item/natural/rock/gemerald
 	spreadChance = 3
 	spread = 2

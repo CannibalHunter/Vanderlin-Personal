@@ -76,6 +76,7 @@
 		H.mind?.adjust_skillrank(/datum/skill/craft/traps, 1, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/labor/butchering, 5, TRUE)
 		H.mind?.adjust_skillrank(/datum/skill/labor/mathematics, 5, TRUE)
+		H.mind?.adjust_skillrank(/datum/skill/craft/gemcutting, 5, TRUE)
 		if(H.age == AGE_OLD)
 			H.mind?.adjust_skillrank(/datum/skill/combat/crossbows, 1, TRUE)
 			H.mind?.adjust_skillrank(/datum/skill/combat/bows, 1, TRUE)

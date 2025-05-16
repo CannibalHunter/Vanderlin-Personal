@@ -52,6 +52,13 @@
 		"...you chisel and chisel at the marble, the hammer slipping and smacking you square in the thumb... blood gently trickles over the stone, as the statue reflects the scars of its artisan..."
 	)
 
+/datum/skill/craft/gemcutting
+	name = "Gemcutting"
+	desc =	"Gemcutting is a skill that represents your character's ability to work with gemstones. The higher your skill in Gemcutting, the faster and better you can make things with gems."
+	dreams = list(
+		"...I chisel in a careless manner... I cut off a finger... blood drips over my workpiece... I'll be beaten again for ruining it..."
+	)
+
 /datum/skill/craft/traps
 	name = "Trapping"
 	desc = "Trapping is a skill that represents your character's ability to lay traps. The higher your skill in Trapping, the more effective your traps will be and the less likely you are to set them off accidentally."

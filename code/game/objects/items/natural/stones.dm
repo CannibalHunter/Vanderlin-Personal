@@ -435,7 +435,7 @@ GLOBAL_LIST_INIT(stone_personality_descs, list(
 	mineralType = /obj/item/ore/tin
 
 /obj/item/natural/rock/gemerald
-	mineralType = /obj/item/gem
+	mineralType = /obj/item/uncut_gem
 
 /obj/item/natural/rock/random_ore
 	name = "rock?"

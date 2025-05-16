@@ -977,7 +977,7 @@
 				user.adjust_triumphs(1, reason = "Offered Lux")
 				qdel(W)
 				return
-			if(istype(W, /obj/item/coin) || istype(W, /obj/item/gem) || istype(W, /obj/item/reagent_containers/glass/cup/silver) || istype(W, /obj/item/reagent_containers/glass/cup/golden) || istype(W, /obj/item/reagent_containers/glass/carafe) || istype(W, /obj/item/clothing/ring) || istype(W, /obj/item/clothing/head/crown/circlet) || istype(W, /obj/item/statue))
+			if(istype(W, /obj/item/coin) || istype(W, /obj/item/uncut_gem) || istype(W, /obj/item/gem) || istype(W, /obj/item/reagent_containers/glass/cup/silver) || istype(W, /obj/item/reagent_containers/glass/cup/golden) || istype(W, /obj/item/reagent_containers/glass/carafe) || istype(W, /obj/item/clothing/ring) || istype(W, /obj/item/clothing/head/crown/circlet) || istype(W, /obj/item/statue))
 				if(B.tri_amt >= 10)
 					to_chat(user, "<span class='warning'>The mouth doesn't open.</span>")
 					return
